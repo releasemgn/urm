@@ -16,6 +16,7 @@
   - multi-team environment
   - release planning control
   - messaging integrations
+  - urm is 1.7 java application launching parallel local and remote ssh-sessions for execution of specific command streams
   
 ## Installation
 
