@@ -1,9 +1,6 @@
-#+TITLE: URM - Unified Release Management
-#+Options: num:nil
-#+STARTUP: odd
-#+Style: <style> h1,h2,h3 {font-family: arial, helvetica, sans-serif} </style>
+# URM - Unified Release Management
 
-* Overview
+## Overview
 
   URM is a tool set enabling to set up continuous delivery framework, aligned with complex release policies:
   - Linux-based command center
