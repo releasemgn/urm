@@ -36,7 +36,7 @@
   URM is in extensive use for specific national proejcts and is continuously developing.
   URM is regarded as open tool to be able to evolve properly.
   
-  If you need help or find missing feature required for your process, please let us know.
+  - If you need help or find missing feature required for your process, please let us know.
   
   ```
   email: vsavchik@gmail.com
