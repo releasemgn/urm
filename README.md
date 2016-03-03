@@ -3,16 +3,17 @@
 ## Overview
 
   URM is a tool set enabling to set up continuous delivery framework, aligned with complex release policies:
-  - Linux-based command center
-  - powerful command-line interface
+  - Linux-based command center, powerful command-line interface
   - Linux/Windows builds and deployments, maven/gradle/dotnet
   - full/incremental releases for generic multi-datacenter application sets
-  - build and deployments without writing scripts, compact declarative tobe specifications
+  - build and deployments without writing scripts, compact declarative tobe-specifications
+  - align with specific technologies, not replacing with its own
   - release planning control
-  - environment management, flexible but controlled configurations
+  - multi-repository codebase management
+  - multi-datacenter geterogenious environment management, flexible but controlled configurations
   - enforce storing codebase in svn/git repositories, buildable, configuration files and database modification files
-  - enforce storing all required for release in well-defined distributive packages
+  - enforce storing all artefacts required for automatic deployment in well-defined distributive packages
   - multi-team environment
   - messaging integrations
-   
+  
   
