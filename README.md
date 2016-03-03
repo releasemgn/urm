@@ -24,7 +24,7 @@
   - create home/etc
   - create in home/etc configuration files product.conf, distr.xml, source.xml using sample files in urm/master/samples
   - make sure all .sh files are executable and have Linix linefeeds:
-  : chmod 744 `find . -name "*.sh`
-  : sed -i "s/\r//" `find . -name "*.sh`
+    : chmod 744 `find . -name "*.sh`
+    : sed -i "s/\r//" `find . -name "*.sh`
 
   
