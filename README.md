@@ -1,7 +1,6 @@
 # URM - Unified Release Management
 
 * Overview
-
   URM is a tool set enabling to set up continuous delivery framework, aligned with complex release policies:
   - Linux-based command center
   - powerful command-line interface
