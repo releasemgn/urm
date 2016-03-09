@@ -117,6 +117,7 @@ core:makedistr/trunk/getdiff.sh
 core:makedistr/uploaddist.sh
 core:makedistr/uploadlib.sh
 core:monitoring/start.sh
+core:README.md
 core:release/build.sh
 core:release/close.sh
 core:release/create.sh
