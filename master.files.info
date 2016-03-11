@@ -123,6 +123,7 @@ core:release/close.sh
 core:release/create.sh
 core:release/descope.sh
 core:release/drop.sh
+core:release/finish.sh
 core:release/getdist.sh
 core:release/prod.sh
 core:release/scopeconf.sh
