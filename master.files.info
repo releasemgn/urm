@@ -126,6 +126,7 @@ core:release/drop.sh
 core:release/finish.sh
 core:release/getdist.sh
 core:release/prod.sh
+core:release/reopen.sh
 core:release/scopeconf.sh
 core:release/scopedb.sh
 core:release/scopeitems.sh
