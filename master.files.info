@@ -19,6 +19,7 @@ core:database/import.sh
 core:database/initdb.sh
 core:database/init/postgres/001-createadm.sql
 core:database/manage.sh
+core:deployment/base.sh
 core:deployment/checkenv.sh
 core:deployment/confcheck.sh
 core:deployment/configure.sh
@@ -133,6 +134,7 @@ core:release/scopeitems.sh
 core:release/scope.sh
 core:release/status.sh
 core:upgrade.sh
+core:wrappers/multidc/base.sh
 core:wrappers/multidc/checkenv.sh
 core:wrappers/multidc/confcheck.sh
 core:wrappers/multidc/configure.sh
@@ -163,6 +165,7 @@ core:wrappers/multidc/scp.sh
 core:wrappers/multidc/sendchatmsg.sh
 core:wrappers/multidc/startenv.sh
 core:wrappers/multidc/stopenv.sh
+core:wrappers/multidc-top/base.sh
 core:wrappers/multidc-top/checkenv.sh
 core:wrappers/multidc-top/confcheck.sh
 core:wrappers/multidc-top/configureall.sh
@@ -202,6 +205,7 @@ core:wrappers/multidc/upgradeenv.sh
 core:wrappers/multidc/verifydeploy.sh
 core:wrappers/multidc/waitenv.sh
 core:wrappers/multidc/waitweb.sh
+core:wrappers/singledc/base.sh
 core:wrappers/singledc/checkenv.sh
 core:wrappers/singledc/confcheck.sh
 core:wrappers/singledc/configure.sh
