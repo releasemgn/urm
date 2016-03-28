@@ -6,7 +6,7 @@
   - Linux-based command center, powerful command-line interface
   - Linux/Windows builds and deployments, maven/gradle/dotnet
   - full/incremental releases for generic multi-datacenter application sets
-  - build and deployments without writing scripts, compact declarative tobe-specifications
+  - build and deployment without writing scripts, compact declarative tobe-specifications
   - align with specific technologies, not replacing with its own
   - multi-repository codebase management, svn/git repositories
   - multi-datacenter heterogenious environment management, flexible but controlled configurations
@@ -16,7 +16,7 @@
   - multi-team environment
   - release planning control
   - messaging integrations
-  - urm is 1.7 java application launching parallel local and remote ssh-sessions for execution of specific command streams
+  - urm is 1.7 java application launching parallel local and remote sessions for execution of specific command streams
   
 ## Installation
 
