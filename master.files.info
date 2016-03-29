@@ -5,6 +5,7 @@ core:bin/help.sh
 core:bin/jabber.run.sh
 core:bin/rocket.run.sh
 core:bin/svnget
+core:bin/svnsave.cmd
 core:bin/svnsave.sh
 core:bin/upgrade.cmd
 core:bin/upgrade.sh
