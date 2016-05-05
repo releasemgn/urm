@@ -20,7 +20,9 @@ core:database/datapump/postgres/linux/run-import-meta.sh
 core:database/datapump/postgres/linux/run.sh
 core:database/init/postgres/linux/001-createadm.sql
 core:database/sql/firebird/windows/checkconnect.cmd
+core:database/sql/postgres/linux/applysystemscript.sh
 core:database/sql/postgres/linux/checkconnect.sh
+core:database/sql/postgres/linux/readcellvalue.sh
 core:lib/json-simple-1.1.jar
 core:lib/skypekit.jar
 core:lib/smack-3.4.1-0cec571.jar
