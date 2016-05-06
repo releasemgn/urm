@@ -18,6 +18,7 @@ core:database/datapump/postgres/linux/run-import-data.sh
 core:database/datapump/postgres/linux/run-import-drop.sql
 core:database/datapump/postgres/linux/run-import-meta.sh
 core:database/datapump/postgres/linux/run.sh
+core:database/init/firebird/windows/001-createadm.sql
 core:database/init/postgres/linux/001-createadm.sql
 core:database/sql/firebird/windows/checkconnect.cmd
 core:database/sql/postgres/linux/applysystemscript.sh
