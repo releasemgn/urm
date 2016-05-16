@@ -22,6 +22,7 @@ core:database/init/firebird/windows/001-createadm.sql
 core:database/init/postgres/linux/001-createadm.sql
 core:database/sql/firebird/windows/applyscript.cmd
 core:database/sql/firebird/windows/checkconnect.cmd
+core:database/sql/firebird/windows/checkconnect.sh
 core:database/sql/firebird/windows/queryscript.cmd
 core:database/sql/postgres/linux/applyscript.sh
 core:database/sql/postgres/linux/applysystemscript.sh
