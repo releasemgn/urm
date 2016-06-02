@@ -27,6 +27,7 @@ core:database/sql/firebird/windows/queryscript.cmd
 core:database/sql/postgres/linux/applyscript.sh
 core:database/sql/postgres/linux/applysystemscript.sh
 core:database/sql/postgres/linux/checkconnect.sh
+core:database/sql/postgres/linux/queryscript.sh
 core:lib/jna-4.1.0.jar
 core:lib/json-simple-1.1.jar
 core:lib/skypekit.jar
