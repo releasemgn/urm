@@ -9,9 +9,10 @@ core:bin/svnsave.cmd
 core:bin/svnsave.sh
 core:bin/upgrade.cmd
 core:bin/upgrade.sh
+core:bin/urmc.jar
 core:bin/urm.cmd
-core:bin/urm.jar
 core:bin/urm.sh
+core:bin/urms.jar
 core:database/datapump/postgres/linux/run-export-data.sh
 core:database/datapump/postgres/linux/run-export-meta.sh
 core:database/datapump/postgres/linux/run-import-data.sh
