@@ -2,8 +2,6 @@ core:bin/configure.cmd
 core:bin/configure.sh
 core:bin/help.cmd
 core:bin/help.sh
-core:bin/jabber.run.sh
-core:bin/rocket.run.sh
 core:bin/svnget
 core:bin/svnsave.cmd
 core:bin/svnsave.sh
