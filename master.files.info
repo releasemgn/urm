@@ -29,6 +29,7 @@ core:database/sql/postgres/linux/applyscript.sh
 core:database/sql/postgres/linux/applysystemscript.sh
 core:database/sql/postgres/linux/checkconnect.sh
 core:database/sql/postgres/linux/queryscript.sh
+core:lib/jmxremote_optional-repackaged-4.0.jar
 core:lib/jmxtools-1.2.1.jar
 core:lib/jna-4.1.0.jar
 core:lib/json-simple-1.1.jar
