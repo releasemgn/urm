@@ -4,6 +4,12 @@ core:bin/help.cmd
 core:bin/help.sh
 core:bin/server.cmd
 core:bin/server.sh
+core:bin/server.start.cmd
+core:bin/server.start.sh
+core:bin/server.status.cmd
+core:bin/server.status.sh
+core:bin/server.stop.cmd
+core:bin/server.stop.sh
 core:bin/svnget
 core:bin/svnsave.cmd
 core:bin/svnsave.sh
