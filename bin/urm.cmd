@@ -10,6 +10,14 @@ if "%C_URM_MODE%" == "main" (
 	set C_UMR_CLASS=org.urm.server.Main
 ) else (
 	set C_UMR_CLASS=org.urm.client.Main
+	set x=0
+	if "%1" == "-standalone" set x=1
+	if "%2" == "-standalone" set x=1
+	if "%3" == "-standalone" set x=1
+	if "%4" == "-standalone" set x=1
+	if "%x%" == "1" (
+		set C_URM_URMSERVER=
+	)
 )
 
 set x=0
