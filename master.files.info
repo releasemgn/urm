@@ -42,14 +42,14 @@ core:lib/skypekit.jar
 core:lib/smack-3.4.1-0cec571.jar
 core:lib/smackx-3.4.1-0cec571.jar
 core:README.md
-core:samples/server/etc/server.conf
+core:samples/server/etc/server.xml
 core:samples/server/products/myproduct/etc/datapump/export-prod-dc.fed-bidb.conf
 core:samples/server/products/myproduct/etc/datapump/import-uat-dc.fed-bidb.conf
 core:samples/server/products/myproduct/etc/datapump/tableset-bidb.txt
 core:samples/server/products/myproduct/etc/distr.xml
 core:samples/server/products/myproduct/etc/env/prod.xml
 core:samples/server/products/myproduct/etc/env/uat.xml
-core:samples/server/products/myproduct/etc/product.conf
+core:samples/server/products/myproduct/etc/product.xml
 core:samples/server/products/myproduct/etc/source.xml
 core:samples/server/products/myproduct/etc/xdoc/main.xml
 core:svnget
